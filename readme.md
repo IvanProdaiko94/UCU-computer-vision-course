@@ -15,3 +15,9 @@
     - [Find affine transformation matrix using 3 point pairs](./homework2/affine_transform.ipynb)
     - [Find perspactive transformation matrix using 4 point pairs](./homework2/perspactive_transform.ipynb)
     - [Implement PatchMatch algorithm](./homework2/patch-match.ipynb)
+    
+- **Homework 2** (object tracking):    
+    - [Mean shift/Cam shift](./homework3/mean_shift)
+    - [Lucas-Kanade](./homework3/lucas_kanade)
+    - [Image retrieval](./homework3/image_retrieval)
+    - [Kalman filter](./homework3/kalman_filter)
