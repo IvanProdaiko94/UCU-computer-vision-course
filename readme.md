@@ -13,11 +13,5 @@
     - [Estimate number of objects](./homework2/estimate_number_of_objects.ipynb) [(images for task 2)](./homework2/count/)
     - [Separate object from background](./homework2/separate_object_from_background.ipynb) [(images for task 3)](./homework2/object/)
     - [Find affine transformation matrix using 3 point pairs](./homework2/affine_transform.ipynb)
-    - [Find perspactive transformation matrix using 4 point pairs](./homework2/perspactive_transform.ipynb)
+    - [Find perspective transformation matrix using 4 point pairs](./homework2/perspective_transform.ipynb)
     - [Implement PatchMatch algorithm](./homework2/patch-match.ipynb)
-    
-- **Homework 2** (object tracking):    
-    - [Mean shift/Cam shift](./homework3/mean_shift)
-    - [Lucas-Kanade](./homework3/lucas_kanade)
-    - [Image retrieval](./homework3/image_retrieval)
-    - [Kalman filter](./homework3/kalman_filter)
