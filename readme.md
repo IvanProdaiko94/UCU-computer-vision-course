@@ -21,10 +21,10 @@
     - [Mean shift clustering](./homework3/mean_shift/mean-shift-clustering.ipynb)
     - [Lucas Kanade](./homework3/lucas_kanade/lucas-kanade-tracking.ipynb)
     - [Content based retrieval](./homework3/image_retrieval/content-based-image-retrieval.ipynb)
-    - [Kalman filter](./homework3/kalman_filter/kalman-filter.ipynb)
+    - [Kalman filter](./homework3/kalman_filter/)
 
-- **Homework 4** ():
-    -
+- **Homework 4** (geometry and augmented reality):
+    - [Searching for ellipses by 6 points](./homework4/find_ellipses_colab.ipynb)
     -
     -
     
