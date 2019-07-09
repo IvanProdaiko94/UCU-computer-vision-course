@@ -19,6 +19,7 @@
 - **Homework 3** (object tracking):
     - [Mean shift/Cam shift object tracking](./homework3/mean_shift/mean-shift-tracking.ipynb)
     - [Mean shift clustering](./homework3/mean_shift/mean-shift-clustering.ipynb)
+    - [Template matching](./homework3/lucas_kanade/template_matching.ipynb)
     - [Lucas Kanade](./homework3/lucas_kanade/lucas-kanade-tracking.ipynb)
     - [Content based retrieval](./homework3/image_retrieval/content-based-image-retrieval.ipynb)
     - [Kalman filter](./homework3/kalman_filter/)
