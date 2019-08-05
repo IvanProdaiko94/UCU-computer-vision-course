@@ -30,3 +30,6 @@
     - [Multiple Views Geometry](./homework4/multiple_view_geometry.ipynb)
     
 - **Homework 5** (deep learning for computer vision):
+    - [Paper review](./homework5/readme.md)
+    - [CNN visualization](./homework5/visualization)
+    - [Experiment summary](./homework5/a3_cifar10.ipynb)
